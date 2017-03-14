@@ -3,9 +3,9 @@
 
 Responsive web project with an aim to bring down the number of deaths caused by motor vehicle accident in a developing country like India.
 
-Around 500k road accidents happen every year in India. More than 40k people lose their life and up to 600k suffer from grievous injuries. The average time it takes for a victim to get medical help is more than one hour because of several reasons like sortage of ambulance, less para-medical faculty, high traffic and many others. If a victim is provided with the necessary care within 15-30 mins of the accident, termed as 'Golden Hour', many victims may survive.
+Around 500 thousand road accidents happen every year in India. More than 40 thousand people lose their life and up to 600 thousand suffer from grievous injuries. The average time it takes for a victim to get medical help is more than an hour due to several reasons like shortage of emergency services and para-medical faculty, high traffic, and many others. If a victim is provided with the necessary care within 15-30 mins of the accident, also known as 'Golden Hour', many more victims might survive.
 
-As honorable Supreme court of India has recently approved 'Good Samaritan' laws, one can use this web application to find nearest trauma center to help accident victims. [Source](http://timesofindia.indiatimes.com/india/Supreme-Court-approves-Centres-guidelines-to-protect-good-samaritans/articleshow/51611949.cms)
+As the honorable Supreme court of India has recently approved 'Good Samaritan' laws, one can use this web application to find the nearest trauma center to help accident victims. [Source](http://timesofindia.indiatimes.com/india/Supreme-Court-approves-Centres-guidelines-to-protect-good-samaritans/articleshow/51611949.cms)
 
 **Pilot city** - **Bengaluru, Karnataka, India**
 
