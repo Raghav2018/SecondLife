@@ -15,20 +15,20 @@ As the honorable Supreme court of India has recently approved 'Good Samaritan' l
 
 Windows, OS X & Linux:
 
-* Create exrernal reference to JavaScript and CSS files appropriately. 
-Or use the html file with embedded script and style. 
+* Create external references to JavaScript and CSS files appropriately. 
+Or use the All-In-One HTML file with embedded script and style. 
 
 * Generate Google Maps JavaScript API [here](https://developers.google.com/maps/documentation/javascript/get-api-key). Use this key to refer Google Maps JavaScript API 
 
 ## Future enhancements
 
-* Collect more data on trauma centers and decouple data from js file and create new file. 
-* Filter by city/zip code to minimize number of route calculation
+* Collect more data on trauma centers and decouple data from js file. Find alternatives for data storage. 
+* Filter by city/zip code to minimize the number of route calculation.
 * Calculate route based on all possible travel modes. 
-* Find best route by including other parameters like traffic, driving mode and distance. 
+* Find the best route by including other parameters like traffic, driving mode and distance. 
 * Read current location using browser API
 * Create responsive UI. 
-* Provide list of other options and launch google maps on selection.
+* Provide a list of other options and launch google maps on selection.
 
 ## About me
 
@@ -37,4 +37,3 @@ Raghavendra Harish  - rh2551@nyu.edu
 * [github](https://github.com/Raghav2018/)
 * [kaggle](https://www.kaggle.com/raghav2018)
 * [HackerRank](https://www.hackerrank.com/rh2551)
-
