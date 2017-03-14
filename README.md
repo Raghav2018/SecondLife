@@ -9,8 +9,7 @@ As honorable Supreme court of India has recently approved 'Good Samaritan' laws,
 
 **Pilot city** - **Bengaluru, Karnataka, India**
 
-
-![](Screen_capture.png)
+![](https://github.com/Raghav2018/SecondLife/blob/master/Screen_capture.PNG)
 
 ## Installation / Development setup
 
